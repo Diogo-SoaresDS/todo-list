@@ -21,7 +21,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 **Clone o repositório**
 
 ```bash
-$ git clone https://github.com/seu-usuario/todo-list.git
+$ git clone https://github.com/Diogo-SoaresDS/todo-list
 ```
 
 **Navegue até o diretório do projeto**
