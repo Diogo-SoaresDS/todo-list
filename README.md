@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List
 
 Uma aplicação de Todo List desenvolvida com React e Redux.  
 Permite adicionar, visualizar, remover, filtrar e marcar tarefas como concluídas.
@@ -21,7 +21,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 **Clone o repositório**
 
 ```bash
-$ git clone https://github.com/seu-usuario/todo-list-app.git
+$ git clone https://github.com/seu-usuario/todo-list.git
 ```
 
 **Navegue até o diretório do projeto**
