@@ -25,9 +25,10 @@
 
 @media (max-width: 900px) {
     .task-container {
-        width: 80%;
+        width: 100%;
         padding: 0;
         height: 200px;
         margin-top: 10px;
+        white-space: nowrap;
     }
 }

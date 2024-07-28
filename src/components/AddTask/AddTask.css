@@ -83,6 +83,14 @@
 
 @media (max-width: 1200px) {
     .modal-add-task {
-        width: 450px;
+        width: 80vw;
+    }
+
+    .buttons {
+        justify-content: space-between;
+    }
+
+    .buttons button {
+        padding: 10px 20px;
     }
 }
