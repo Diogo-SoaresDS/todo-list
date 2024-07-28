@@ -1,0 +1,21 @@
+.header {
+    background-color: rgb(238, 238, 238);
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+@media (max-width: 900px) {
+    .header {
+        width: 80%;
+    }
+}

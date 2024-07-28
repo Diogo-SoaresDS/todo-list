@@ -1,0 +1,33 @@
+.task-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 300px;
+    overflow: auto;
+    max-height: 80vh;
+    width: 100%;            
+    padding: 10px;           
+}
+
+.task-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.task-container::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+}
+
+.task-container::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 900px) {
+    .task-container {
+        width: 80%;
+        padding: 0;
+        height: 200px;
+        margin-top: 10px;
+    }
+}
